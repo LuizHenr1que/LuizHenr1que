@@ -1,4 +1,4 @@
-## Olá eu sou o Luiz Henrique, Estudante de programação e tecnologia.
+## Olá eu sou o Luiz Henrique, Programador Full stack.
 
 <div align="center">
   <a href="https://github.com/LuizHenr1que">
