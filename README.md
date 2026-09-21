@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Founder+%26+CTO+da+V%C3%A9rtice;PagPegue+%C2%B7+Condo360+%C2%B7+LarZin;Offline-first+%C2%B7+POS+Stone+%C2%B7+SaaS+multi-tenant" alt="Typing headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Founder+%26+CTO+da+V%C3%A9rtice;Full+Stack+e+Mobile;iOS+%C2%B7+Android+%C2%B7+Web" alt="Typing headline"/>
 </p>
 
 <p align="center">
