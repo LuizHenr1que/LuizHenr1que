@@ -1,76 +1,89 @@
-<h1 align="center">Olá, eu sou o Luiz Henrique 👋</h1>
-<h3 align="center">Desenvolvedor Full Stack & Mobile | React • Node.js • React Native</h3>
+<p align="center">
+  <img src="assets/header.svg" alt="Luiz Henrique Francisco da Conceição — Founder & CTO" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="mailto:luizhenriquejob4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/luiz-henrique44" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/LuizHenr1que" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Founder+%26+CTO+da+V%C3%A9rtice;PagPegue+%C2%B7+Condo360+%C2%B7+LarZin;Offline-first+%C2%B7+POS+Stone+%C2%B7+SaaS+multi-tenant" alt="Typing headline"/>
+</p>
+
+<p align="center">
+  <a href="mailto:luizhenriquejob4@gmail.com"><img src="https://img.shields.io/badge/Gmail-luizhenriquejob4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/luiz-henrique44"><img src="https://img.shields.io/badge/LinkedIn-luiz--henrique44-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/LuizHenr1que"><img src="https://img.shields.io/badge/GitHub-LuizHenr1que-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=LuizHenr1que&style=for-the-badge&color=0b6e6e" alt="Profile views"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Produtos em produção
 
-- 🏢 Atualmente trabalhando como **Analista de Programação** na **Usina Itajobi**
-- 🚀 Desenvolvendo soluções **Full Stack & Mobile** com foco em rastreamento e telemetria em tempo real
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá
-- 🤖 Explorando **Agentes de IA, Automação Inteligente** com LangChain, CrewAI e N8N
-- 📍 Rio de Janeiro, Brasil
+Founder e CTO na **Vértice**. Concebo o produto, desenho a arquitetura, publico nas lojas e opero em produção — com foco em sistemas que precisam funcionar quando a internet cai.
 
----
+<p align="center">
+  <a href="https://pagpegue.com.br/"><img src="https://img.shields.io/badge/PagPegue-PDV%20%26%20POS%20Stone-0b6e6e?style=for-the-badge" alt="PagPegue"/></a>
+  <a href="https://www.condo360.app.br/"><img src="https://img.shields.io/badge/Condo360-SaaS%20condom%C3%ADnio-0284c7?style=for-the-badge" alt="Condo360"/></a>
+  <a href="https://apps.apple.com/br/app/larzin/id6784781165"><img src="https://img.shields.io/badge/LarZin-iOS%20App%20Store-d97706?style=for-the-badge" alt="LarZin"/></a>
+</p>
 
-## 🛠️ Tecnologias & Ferramentas
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Banco de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Ferramentas**
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-
-**IA & Automação**
-
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+| Produto | O que é | Plataformas |
+| --- | --- | --- |
+| **[PagPegue](https://pagpegue.com.br/)** | PDV/POS para operação de alto fluxo, integração nativa Stone e arquitetura offline-first | Web · Android · iOS |
+| **[Condo360](https://www.condo360.app.br/)** | SaaS de condomínio para morador, portaria e síndico (encomendas, visitas, avisos, Pix) | [App Store](https://apps.apple.com/br/app/condo360/id6784867589) · [Play Store](https://play.google.com/store/apps/details?id=app.condo360.br) · Web |
+| **[LarZin](https://apps.apple.com/br/app/larzin/id6784781165)** | Organização compartilhada do lar: tarefas, compras, contas, manutenção e agenda | App Store · iOS |
 
 ---
 
-## 📊 GitHub Stats
+## Sobre
+
+- **Founder & CTO** na Vértice — PagPegue, Condo360 e LarZin
+- **Analista de Programação** na Usina Itajobi — web e mobile de rastreamento/telemetria em tempo real
+- Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá
+- Rio de Janeiro, Brasil
+
+O que me diferencia não é listar stack: é diagnosticar o gargalo real (crash, fila, sync, hardware, pagamento) e corrigir na raiz.
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,html,css&perline=8" alt="Front-end icons"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,python,supabase,prisma&perline=8" alt="Back-end icons"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github,linux&perline=8" alt="Data and ops icons"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,apple,figma,postman,firebase,graphql,bash&perline=8" alt="Mobile and tools icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Stone_SDK-00A868?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Stone SDK"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" alt="Realm"/>
+  <img src="https://img.shields.io/badge/Zustand-4338CA?style=for-the-badge" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+  <img src="https://img.shields.io/badge/Asaas-1D4ED8?style=for-the-badge" alt="Asaas"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
+
+---
+
+## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenr1que&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenr1que&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenr1que&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenr1que&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top languages"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizHenr1que&theme=react&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuizHenr1que/LuizHenr1que/output/github-contribution-grid-snake.svg" alt="Snake contribution animation"/>
+</p>
