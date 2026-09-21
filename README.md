@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-v2.png" alt="Luiz Henrique Francisco da Conceição — Founder & CTO" width="100%"/>
+  <img src="assets/header-v3.png" alt="Luiz Henrique Francisco da Conceição — Founder & CTO" width="100%"/>
 </p>
 
 <p align="center">
