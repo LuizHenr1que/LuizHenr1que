@@ -74,8 +74,8 @@ O que me diferencia não é listar stack: é diagnosticar o gargalo real (crash,
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenr1que&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenr1que&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LuizHenr1que&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuizHenr1que&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </div>
 
 <p align="center">
