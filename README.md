@@ -56,17 +56,15 @@ O que me diferencia não é listar stack: é diagnosticar o gargalo real (crash,
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github,linux&perline=8" alt="Data and ops icons"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,apple,figma,postman,firebase,graphql,bash,linux&perline=8" alt="Mobile and tools icons"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,apple,figma,postman,firebase,graphql,bash,vscode&perline=8" alt="Mobile and tools icons"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-  <img src="https://img.shields.io/badge/Stone_SDK-00A868?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Stone SDK"/>
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" alt="Realm"/>
   <img src="https://img.shields.io/badge/Zustand-4338CA?style=for-the-badge" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/Asaas-1D4ED8?style=for-the-badge" alt="Asaas"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
