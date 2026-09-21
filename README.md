@@ -56,7 +56,7 @@ O que me diferencia não é listar stack: é diagnosticar o gargalo real (crash,
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github,linux&perline=8" alt="Data and ops icons"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,apple,figma,postman,firebase,graphql,bash&perline=8" alt="Mobile and tools icons"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,apple,figma,postman,firebase,graphql,bash,linux&perline=8" alt="Mobile and tools icons"/>
 </p>
 
 <p align="center">
