@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/header-v3.png" alt="Luiz Henrique Francisco da Conceição — Founder & CTO" width="100%"/>
+  <img src="assets/header-v3.png" alt="Luiz Henrique Francisco da ConceiÃ§Ã£o â€” Desenvolvedor Full Stack e Mobile" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Founder+%26+CTO+da+V%C3%A9rtice;Full+Stack+e+Mobile;iOS+%C2%B7+Android+%C2%B7+Web" alt="Typing headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack+e+Mobile;React+%C2%B7+React+Native+%C2%B7+Node+%2F+NestJS+%C2%B7+Laravel;iOS+%C2%B7+Android+%C2%B7+Web" alt="Typing headline"/>
 </p>
 
 <p align="center">
@@ -15,32 +15,34 @@
 
 ---
 
-## Produtos em produção
+## Projetos em produÃ§Ã£o
 
-Founder e CTO na **Vértice**. Concebo o produto, desenho a arquitetura, publico nas lojas e opero em produção — com foco em sistemas que precisam funcionar quando a internet cai.
+Desenvolvedor Full Stack e Mobile na **VÃ©rtice Softwares**. Trabalho com aplicaÃ§Ãµes web e mobile em produÃ§Ã£o, com clientes reais em operaÃ§Ã£o â€” incluindo dashboards, APIs e apps publicados nas lojas (iOS, Android e Web).
 
 <p align="center">
   <a href="https://pagpegue.com.br/"><img src="https://img.shields.io/badge/PagPegue-PDV%20%26%20POS%20Stone-0b6e6e?style=for-the-badge" alt="PagPegue"/></a>
   <a href="https://www.condo360.app.br/"><img src="https://img.shields.io/badge/Condo360-SaaS%20condom%C3%ADnio-0284c7?style=for-the-badge" alt="Condo360"/></a>
   <a href="https://apps.apple.com/br/app/larzin/id6784781165"><img src="https://img.shields.io/badge/LarZin-iOS%20App%20Store-d97706?style=for-the-badge" alt="LarZin"/></a>
+  <a href="https://cohle.vercel.app"><img src="https://img.shields.io/badge/Cohle-chat%2C%20voz%20e%20tela-ff3b5c?style=for-the-badge" alt="Cohle"/></a>
 </p>
 
-| Produto | O que é | Plataformas |
+| Projeto | O que Ã© | Plataformas |
 | --- | --- | --- |
-| **[PagPegue](https://pagpegue.com.br/)** | PDV/POS para operação de alto fluxo, integração nativa Stone e arquitetura offline-first | Web · Android · iOS |
-| **[Condo360](https://www.condo360.app.br/)** | SaaS de condomínio para morador, portaria e síndico (encomendas, visitas, avisos, Pix) | [App Store](https://apps.apple.com/br/app/condo360/id6784867589) · [Play Store](https://play.google.com/store/apps/details?id=app.condo360.br) · Web |
-| **[LarZin](https://apps.apple.com/br/app/larzin/id6784781165)** | Organização compartilhada do lar: tarefas, compras, contas, manutenção e agenda | App Store · iOS |
+| **[PagPegue](https://pagpegue.com.br/)** | PDV/POS para operaÃ§Ã£o de alto fluxo, integraÃ§Ã£o nativa Stone e arquitetura offline-first | Web Â· Android Â· iOS |
+| **[Condo360](https://www.condo360.app.br/)** | SaaS de condomÃ­nio para morador, portaria e sÃ­ndico (encomendas, visitas, avisos, Pix) | [App Store](https://apps.apple.com/br/app/condo360/id6784867589) Â· [Play Store](https://play.google.com/store/apps/details?id=app.condo360.br) Â· Web |
+| **[LarZin](https://apps.apple.com/br/app/larzin/id6784781165)** | OrganizaÃ§Ã£o compartilhada do lar: tarefas, compras, contas, manutenÃ§Ã£o e agenda | App Store Â· iOS |
+| **[Cohle](https://cohle.vercel.app)** | Chat, voz, vÃ­deo e compartilhamento de tela | [CÃ³digo](https://github.com/LuizHenr1que/cohle) Â· Web Â· macOS Â· Windows |
 
 ---
 
 ## Sobre
 
-- **Founder & CTO** na Vértice — PagPegue, Condo360 e LarZin
-- **Analista de Programação** na Usina Itajobi — web e mobile de rastreamento/telemetria em tempo real
-- Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá
+- **Desenvolvedor Full Stack e Mobile** na VÃ©rtice Softwares â€” PagPegue, Condo360, LarZin e Cohle
+- **Analista de ProgramaÃ§Ã£o** na Usina Itajobi â€” web e mobile de rastreamento e telemetria em tempo real
+- Graduado em **AnÃ¡lise e Desenvolvimento de Sistemas** pela Universidade EstÃ¡cio de SÃ¡
 - Rio de Janeiro, Brasil
 
-O que me diferencia não é listar stack: é diagnosticar o gargalo real (crash, fila, sync, hardware, pagamento) e corrigir na raiz.
+O que me diferencia nÃ£o Ã© listar stack: Ã© diagnosticar o gargalo real (crash, fila, sync, hardware, pagamento) e corrigir na raiz.
 
 ---
 
