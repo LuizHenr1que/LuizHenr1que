@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-v3.png" alt="Luiz Henrique Francisco da ConceiÃ§Ã£o â€” Desenvolvedor Full Stack e Mobile" width="100%"/>
+  <img src="assets/header-v3.png" alt="Luiz Henrique Francisco da Conceição — Desenvolvedor Full Stack e Mobile" width="100%"/>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ---
 
-## Projetos em produÃ§Ã£o
+## Projetos em produção
 
-Desenvolvedor Full Stack e Mobile na **VÃ©rtice Softwares**. Trabalho com aplicaÃ§Ãµes web e mobile em produÃ§Ã£o, com clientes reais em operaÃ§Ã£o â€” incluindo dashboards, APIs e apps publicados nas lojas (iOS, Android e Web).
+Desenvolvedor Full Stack e Mobile na **Vértice Softwares**. Trabalho com aplicações web e mobile em produção, com clientes reais em operação — incluindo dashboards, APIs e apps publicados nas lojas (iOS, Android e Web).
 
 <p align="center">
   <a href="https://pagpegue.com.br/"><img src="https://img.shields.io/badge/PagPegue-PDV%20%26%20POS%20Stone-0b6e6e?style=for-the-badge" alt="PagPegue"/></a>
@@ -26,23 +26,23 @@ Desenvolvedor Full Stack e Mobile na **VÃ©rtice Softwares**. Trabalho com apli
   <a href="https://cohle.vercel.app"><img src="https://img.shields.io/badge/Cohle-chat%2C%20voz%20e%20tela-ff3b5c?style=for-the-badge" alt="Cohle"/></a>
 </p>
 
-| Projeto | O que Ã© | Plataformas |
+| Projeto | O que é | Plataformas |
 | --- | --- | --- |
-| **[PagPegue](https://pagpegue.com.br/)** | PDV/POS para operaÃ§Ã£o de alto fluxo, integraÃ§Ã£o nativa Stone e arquitetura offline-first | Web Â· Android Â· iOS |
-| **[Condo360](https://www.condo360.app.br/)** | SaaS de condomÃ­nio para morador, portaria e sÃ­ndico (encomendas, visitas, avisos, Pix) | [App Store](https://apps.apple.com/br/app/condo360/id6784867589) Â· [Play Store](https://play.google.com/store/apps/details?id=app.condo360.br) Â· Web |
-| **[LarZin](https://apps.apple.com/br/app/larzin/id6784781165)** | OrganizaÃ§Ã£o compartilhada do lar: tarefas, compras, contas, manutenÃ§Ã£o e agenda | App Store Â· iOS |
-| **[Cohle](https://cohle.vercel.app)** | Chat, voz, vÃ­deo e compartilhamento de tela | [CÃ³digo](https://github.com/LuizHenr1que/cohle) Â· Web Â· macOS Â· Windows |
+| **[PagPegue](https://pagpegue.com.br/)** | PDV/POS para operação de alto fluxo, integração nativa Stone e arquitetura offline-first | Web · Android · iOS |
+| **[Condo360](https://www.condo360.app.br/)** | SaaS de condomínio para morador, portaria e síndico (encomendas, visitas, avisos, Pix) | [App Store](https://apps.apple.com/br/app/condo360/id6784867589) · [Play Store](https://play.google.com/store/apps/details?id=app.condo360.br) · Web |
+| **[LarZin](https://apps.apple.com/br/app/larzin/id6784781165)** | Organização compartilhada do lar: tarefas, compras, contas, manutenção e agenda | App Store · iOS |
+| **[Cohle](https://cohle.vercel.app)** | Chat, voz, vídeo e compartilhamento de tela | [Código](https://github.com/LuizHenr1que/cohle) · Web · macOS · Windows |
 
 ---
 
 ## Sobre
 
-- **Desenvolvedor Full Stack e Mobile** na VÃ©rtice Softwares â€” PagPegue, Condo360, LarZin e Cohle
-- **Analista de ProgramaÃ§Ã£o** na Usina Itajobi â€” web e mobile de rastreamento e telemetria em tempo real
-- Graduado em **AnÃ¡lise e Desenvolvimento de Sistemas** pela Universidade EstÃ¡cio de SÃ¡
+- **Desenvolvedor Full Stack e Mobile** na Vértice Softwares — PagPegue, Condo360, LarZin e Cohle
+- **Analista de Programação** na Usina Itajobi — web e mobile de rastreamento e telemetria em tempo real
+- Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá
 - Rio de Janeiro, Brasil
 
-O que me diferencia nÃ£o Ã© listar stack: Ã© diagnosticar o gargalo real (crash, fila, sync, hardware, pagamento) e corrigir na raiz.
+O que me diferencia não é listar stack: é diagnosticar o gargalo real (crash, fila, sync, hardware, pagamento) e corrigir na raiz.
 
 ---
 
